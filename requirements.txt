@@ -1,0 +1,11 @@
+streamlit
+langchain
+pyaudio
+openai
+googletrans
+speechrecognition
+gtts
+pydub
+huggingface_hub
+python-dotenv
+Flask
